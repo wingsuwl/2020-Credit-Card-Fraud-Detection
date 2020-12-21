@@ -20,6 +20,7 @@ Logistic Regression, Random Forest, SVM, KNN, Ada Boost, Extra Trees, AutoEncode
 ### Data
 **Kaggle** : https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-This is Highly Imbalanced Data.
+<img width="272" alt="스크린샷 2020-12-21 오전 10 32 12" src="https://user-images.githubusercontent.com/54855238/102730399-ff665d80-4377-11eb-92f1-3a884c7f5e12.png">
 
+This is Highly Imbalanced Data.
 
